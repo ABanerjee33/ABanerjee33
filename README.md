@@ -12,16 +12,18 @@ Check [my website](https://www.avikb.me) out
 
 [![Linkedin: avik-banerjee-aero](https://img.shields.io/badge/-Avik%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-banerjee-aero/)](https://www.linkedin.com/in/avik-banerjee-aero/)
 
-#### Junior AE Student @ [Georgia Tech](https://www.gatech.edu/) 
-Coursework: Object-Oriented Programming, Computing for Engineers, Linear Algebra, Dynamics, Thermodynamics & Fluid Fundamentals, Engineering Graphics & Design, Calc 1-3
-Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+#### Junior AE Student @ [Georgia Tech](https://ae.gatech.edu/) 
+- Coursework: Object-Oriented Programming, Computing for Engineers, Linear Algebra, Dynamics, Thermodynamics & Fluid Fundamentals, Engineering Graphics & Design, Calc 1-3
+- Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
 
 # Professional Experience
-#### Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
-Worked on developing a novel modeling capability in MATLAB that leveraged orbital physics, parallel computing, and optimization techniques to provide data used in engineering systems analysis trade studies
+### Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
+- Worked on developing a novel modeling capability in MATLAB that leveraged orbital physics, parallel computing, and optimization techniques to provide data used in engineering systems analysis trade studies
 
-#### Model-Based Systems Engineering Research Assitant @ [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/)
-Worked on modeling and simulating an underwater rocket launch and habitable lunar platform using MagicDraw, OpenMBEE, version control, and REST API.
+### Model-Based Systems Engineering Research Assitant @ [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/)
+- Worked on modeling and simulating an underwater rocket launch and habitable lunar platform using MagicDraw, OpenMBEE, version control, and REST API.
 
 # Technical Skillset
 
