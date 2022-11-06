@@ -4,18 +4,15 @@ ABanerjee33/ABanerjee33 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hello, I'm Avik Banerjee 
-<img src="https://user-images.githubusercontent.com/66737209/200193694-559215cd-ae6c-49e2-889f-025747cd280b.gif" width="100" height="80" />
+# :man_astronaut: Hello, I'm Avik Banerjee 
 
 Check [my website](https://www.avikb.me) out
 
-👀 I'm interested in systems analysis, embedded systems, and signal processing and the unique applications of ML and data science to these concepts!
-
-
+👀 I'm a third-year aerospace engineering student at Georgia Tech currently interested in systems analysis, embedded systems, and signal processing and the unique applications of ML and data science to these concepts!
 
 [![Linkedin: avik-banerjee-aero](https://img.shields.io/badge/-Avik%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-banerjee-aero/)](https://www.linkedin.com/in/avik-banerjee-aero/)
 
-#### Junior AE Student @ [Georgia Tech](https://ae.gatech.edu/) 
+#### AE Student @ [Georgia Tech](https://ae.gatech.edu/) 
 - Coursework: Object-Oriented Programming, Computing for Engineers, Linear Algebra, Dynamics, Thermodynamics & Fluid Fundamentals, Engineering Graphics & Design, Calc 1-3
 - Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
 
