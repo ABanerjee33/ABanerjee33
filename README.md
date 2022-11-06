@@ -45,8 +45,15 @@ Check [my website](https://www.avikb.me) out
 - Linux, Raspbian (Debian Linux)
 
 # Projects
-<!--Web Development Projects-->
 
-## Signal Processing
+## Signal Processing Using [<img alt="PACT" width="50px" height="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Raspberry_Pi_B%2B_illustration.svg/1200px-Raspberry_Pi_B%2B_illustration.svg.png" />](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 ### Bluetooth Contact-Tracing [VIEW PROJECT](https://github.com/ABanerjee33/BLE-COVIDProximityDetection)
-<img src="https://pact.mit.edu/wp-content/uploads/2020/04/cropped-PACT_Logo_040820_med-202x75.jpg" width="100" height="50">
+- Used Python and bluetooth libraries to successfully demonstrate the feasibility of Bluetooth Low Energy for
+automated proximity-detection for COVID-19 by conducting Raspberry Pi signal experiments 
+
+- Used Matplotlib for data visualization and Numpy & Pandas to parse CSV data and run statistical analysis on key
+signal parameters such as RSSI (Recieved Signal Strength) to design a proximity detection algorithm based on
+COVID TC4TL (“Too close for too long”) parameters
+
+[<img alt="PACT" width="230px" height="100px" src="https://user-images.githubusercontent.com/66737209/200194368-5543f155-e126-4b77-8ca6-509785cd2593.jpg" />](https://pact.mit.edu/)
+
