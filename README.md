@@ -64,7 +64,7 @@ COVID TC4TL (“Too close for too long”) parameters
 *Key Technologies Used: Python, TensorFlow, Computer Vision, Finite Element Analysis, Dynamic Motion Analysis, 3D CAD*
 - 3D Printed Physically built CubeSat mockup prototype containing embedded systems and low-light cameras and IMU sensors
 <img align="left" width="300px" height="105px" src="https://drive.google.com/uc?export=view&id=1_Z9_E29e28Nirdm0-uoZovu0KQSYaw73"/>
-<img align="center" width="120px" height="105px" src="https://drive.google.com/uc?export=view&id=1gO4NXvcCrWLh4pGW0FVgAyDdfrRQxZJU"/>
+<img align="center" width="160px" height="105px" src="https://drive.google.com/uc?export=view&id=1gO4NXvcCrWLh4pGW0FVgAyDdfrRQxZJU"/>
 
 - Simulated prototype performance with dynamic motion and finite element analysis (FEA) in Autodesk Inventor
 <img alt="PACT" align="left" width="300px" height="170px" src="https://drive.google.com/uc?export=view&id=1sFvdYIYX9Ng_R6Y5I6-_81QWNEdWFVIs"/>
