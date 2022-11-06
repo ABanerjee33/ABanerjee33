@@ -49,3 +49,4 @@ Check [my website](https://www.avikb.me) out
 
 ## Signal Processing
 ### Bluetooth Contact-Tracing [VIEW PROJECT](https://github.com/ABanerjee33/BLE-COVIDProximityDetection)
+<img src="https://pact.mit.edu/wp-content/uploads/2020/04/cropped-PACT_Logo_040820_med-202x75.jpg" width="100" height="50">
