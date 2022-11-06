@@ -26,9 +26,10 @@ Check [my website](https://www.avikb.me) out
 # Technical Skillset
 
 ### Python: 
-- TensorFlow, Scikit-learn
-- OpenCV, Matplotlib
-- Pandas, NumPy
+- TensorFlow, Scikit-learn (ML)
+- OpenCV, Matplotlib (Image Processing)
+- Pandas, NumPy (Data Analysis)
+- PyBlueZ, Gattlib, Pyyaml (Signal Processing)
 
 ### Java: 
  - Object Oriented Programming
@@ -55,5 +56,5 @@ automated proximity-detection for COVID-19 by conducting Raspberry Pi signal exp
 signal parameters such as RSSI (Recieved Signal Strength) to design a proximity detection algorithm based on
 COVID TC4TL (“Too close for too long”) parameters
 
-[<img alt="PACT" width="230px" height="100px" src="https://user-images.githubusercontent.com/66737209/200194368-5543f155-e126-4b77-8ca6-509785cd2593.jpg" />](https://pact.mit.edu/)
+[<img alt="PACT" width="100px" height="40px" src="https://user-images.githubusercontent.com/66737209/200194368-5543f155-e126-4b77-8ca6-509785cd2593.jpg" />](https://pact.mit.edu/)
 
