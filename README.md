@@ -65,10 +65,10 @@ COVID TC4TL (“Too close for too long”) parameters
 <img align="center" width="160px" height="105px" src="https://drive.google.com/uc?export=view&id=1gO4NXvcCrWLh4pGW0FVgAyDdfrRQxZJU"/>
 
 - Simulated prototype performance with dynamic motion and finite element analysis (FEA) in Autodesk Inventor
-<img alt="PACT" align="left" width="300px" height="170px" src="https://drive.google.com/uc?export=view&id=1sFvdYIYX9Ng_R6Y5I6-_81QWNEdWFVIs"/>
+<img align="left" width="300px" height="170px" src="https://drive.google.com/uc?export=view&id=1sFvdYIYX9Ng_R6Y5I6-_81QWNEdWFVIs"/>
 <img alt="PACT" align="center" width="270px" height="170px" src="https://drive.google.com/uc?export=view&id=1xa_UnMtpiCqhpkVSvjVldXFF1XCZsouW"/>
 
 - Used Python and Tensorflow to train ML model on curated dataset and implemented model into debris detection
 script yielding 95% confidence per detection
 
-<img align="center" src="https://s4.gifyu.com/images/ezgif.com-gif-maker-177ba0bcd622ac816.gif"/>
+<img align="left" width="33%" height="33%" src="https://user-images.githubusercontent.com/66737209/200223012-abd88f02-7432-41c2-bb3c-c3a13ac277c6.gif"/>
