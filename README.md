@@ -70,4 +70,6 @@ COVID TC4TL (“Too close for too long”) parameters
 
 - Used Python and Tensorflow to train ML model on curated dataset and implemented model into debris detection
 script yielding 95% confidence per detection
-<img align="center" width="160px" height="105px" src="https://drive.google.com/uc?export=view&id=1ihAmkMSnEHHmCSJURFBCkKEBqC8b7RjK"/>
+
+<img align="center" width="160px" height="105px" src="https://drive.google.com/uc?export=view&id=1SIlqomsCpOr8gG7RnK46QZ8yZ6oXTK1c"/>
+<img align="center" width="160px" height="105px" src="https://imgur.com/a/YrTHPSE"/>
