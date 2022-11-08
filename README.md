@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # :man_astronaut: Hello, I'm Avik Banerjee 
-[Check out my website!](https://ae.gatech.edu/) 
+[Check out my website!](https://avikb.me/)
 
 👀 I'm a third-year aerospace engineering student at Georgia Tech currently interested in systems analysis, embedded systems, and signal processing and the unique applications of ML and data science to these concepts!
 
