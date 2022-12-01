@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
  - Graphics & Game Design
 
 ### JavaScript: 
+- Web Dev
 - NLP
 - Node.js Amazon Alexa Skills
 
