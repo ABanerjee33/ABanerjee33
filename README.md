@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ### Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - Worked on developing a novel modeling capability in MATLAB that leveraged orbital physics, parallel computing, and optimization techniques to provide data used in engineering systems analysis trade studies
 
-### Model-Based Systems Engineering Research Assitant @ [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/)
+### Model-Based Systems Engineering Research Assistant @ [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/)
 - Worked on modeling and simulating an underwater rocket launch and habitable lunar platform using MagicDraw, OpenMBEE, version control, and REST API.
 
 # Technical Skillset
