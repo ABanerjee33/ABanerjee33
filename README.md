@@ -16,7 +16,11 @@ You can click the Preview link to take a look at your changes.
 - Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
 
 # Professional Experience
-### Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
+### RF Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
+- Worked on developing comprehensive MBSE analysis of radar backend using MagicDraw, Matlab Radar Toolbox, and Python script
+- Designed, SMT soldred, and tested PCB to monitor health and status of radar component
+  
+### Space Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - Worked on developing a novel modeling capability in MATLAB that leveraged orbital physics, parallel computing, and optimization techniques to provide data used in engineering systems analysis trade studies
 
 ### Model-Based Systems Engineering Research Assistant @ [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/)
