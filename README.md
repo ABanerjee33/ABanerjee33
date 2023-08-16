@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # :man_astronaut: Hello, I'm Avik Banerjee 
 [Check out my website!](https://avikb.me/)
 
-👀 I'm a third-year aerospace engineering student at Georgia Tech currently interested in applying ML and data science principles to systems analysis, embedded systems, and signal processing!
+👀 I'm a senior undergrad pursuing a BS/MS honors in aerospace engineering 🚀 at Georgia Tech. My main interests revolve around applying ML, AI, systems analysis, and data science to topics in aerospace engineering and related industries. That said, I'm always open to exploring a wide range of engineering experiences!
 
 [![Linkedin: avik-banerjee-aero](https://img.shields.io/badge/-Avik%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-banerjee-aero/)](https://www.linkedin.com/in/avik-banerjee-aero/)
 
