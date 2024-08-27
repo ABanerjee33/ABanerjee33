@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Linkedin: avik-banerjee-aero](https://img.shields.io/badge/-Avik%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-banerjee-aero/)](https://www.linkedin.com/in/avik-banerjee-aero/)
 
-#### AE Student @ [Georgia Tech](https://ae.gatech.edu/) 
+#### BS/MS AE Student @ [Georgia Tech](https://ae.gatech.edu/) 
 - Coursework: Object-Oriented Programming, Computing for Engineers, Linear Algebra, Dynamics, Thermodynamics & Fluid Fundamentals, Engineering Graphics & Design, Calc 1-3
 - Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
 
