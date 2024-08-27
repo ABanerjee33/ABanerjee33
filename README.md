@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # :man_astronaut: Hello, I'm Avik Banerjee 
 [Check out my website!](https://avikb.com/)
 
-👀 I'm a senior undergrad pursuing a BS/MS honors in aerospace engineering 🚀 at Georgia Tech. My main interests revolve around applying ML, AI, systems analysis, and data science to topics in aerospace engineering and related industries. That said, I'm always open to exploring a wide range of engineering experiences!
+👀 I'm a M.S. student in aerospace engineering 🚀 at Georgia Tech. My main interests revolve around applying ML, AI, systems analysis, and data science to topics in aerospace engineering and related industries. That said, I'm always open to exploring a wide range of engineering experiences!
 
 [![Linkedin: avik-banerjee-aero](https://img.shields.io/badge/-Avik%20Banerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-banerjee-aero/)](https://www.linkedin.com/in/avik-banerjee-aero/)
 
@@ -16,9 +16,15 @@ You can click the Preview link to take a look at your changes.
 - Self Learn: Data Structures & Algorithms, C++ Development, Scripting, SQL Essential Training
 
 # Professional Experience
+### Current: Graduate Research Assistant @ [Planetary Exploration Lab](https://www.pxl.earth/)
+- Working toward developing embedded software and hardware for the Electronic Life-detection Instrument for Enceladus/Europa (ELIE), advancing its Technology Readiness Level (TRL) by enhancing data acquisition and processing capabilities.
+
+### Software Engineer Intern @ [SpaceX](https://www.spacex.com/)
+- Developed high-performance C++ code for millisecond-scale tasks, performing hardware-in-the-loop (HITL) testing and transferring critical satellite data.
+
 ### RF Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - Worked on developing comprehensive MBSE analysis of radar backend using MagicDraw, Matlab Radar Toolbox, and Python script
-- Designed, SMT soldred, and tested PCB to monitor health and status of radar component
+- Designed, SMT soldered, and tested PCB to monitor the health and status of radar components
   
 ### Space Summer Research Intern @ [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - Worked on developing a novel modeling capability in MATLAB that leveraged orbital physics, parallel computing, and optimization techniques to provide data used in engineering systems analysis trade studies
@@ -55,14 +61,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Bluetooth Contact-Tracing [VIEW PROJECT](https://github.com/ABanerjee33/BLE-COVIDProximityDetection)
 *Key Technologies Used: Python, Python Bluetooth Libraries, Numpy, Pandas, Matplotlib*
-- Used Python and bluetooth libraries to successfully demonstrate the feasibility of Bluetooth Low Energy for
+- Used Python and Bluetooth libraries to successfully demonstrate the feasibility of Bluetooth Low Energy for
 automated proximity-detection for COVID-19 by conducting Raspberry Pi signal experiments 
 
 - Used Matplotlib for data visualization and Numpy & Pandas to parse CSV data and run statistical analysis on key
-signal parameters such as RSSI (Recieved Signal Strength) to design a proximity detection algorithm based on
+signal parameters such as RSSI (received signal Strength) to design a proximity detection algorithm based on
 COVID TC4TL (“Too close for too long”) parameters
 
-#### Contributed toward Private Automated Contact Tracing (PACT) Intiative led by MIT CSAIL: 
+#### Contributed toward Private Automated Contact Tracing (PACT) Initiative led by MIT CSAIL: 
 [<img alt="PACT" width="100px" height="40px" src="https://user-images.githubusercontent.com/66737209/200194368-5543f155-e126-4b77-8ca6-509785cd2593.jpg" />](https://pact.mit.edu/)
 
 ## CubeSat Active Debris Removal [VIEW PROJECT](https://github.com/ABanerjee33/CubeSatADR)
@@ -75,7 +81,7 @@ COVID TC4TL (“Too close for too long”) parameters
 <img align="left" width="300px" height="170px" src="https://drive.google.com/uc?export=view&id=1sFvdYIYX9Ng_R6Y5I6-_81QWNEdWFVIs"/>
 <img alt="PACT" align="center" width="270px" height="170px" src="https://drive.google.com/uc?export=view&id=1xa_UnMtpiCqhpkVSvjVldXFF1XCZsouW"/>
 
-- Used Python and Tensorflow to train ML model on curated dataset and implemented model into debris detection
+- Used Python and Tensorflow to train ML model on a curated dataset and implemented model into debris detection
 script yielding 95% confidence per detection
 
 <img align="left" width="33%" height="33%" src="https://user-images.githubusercontent.com/66737209/200223012-abd88f02-7432-41c2-bb3c-c3a13ac277c6.gif"/>
